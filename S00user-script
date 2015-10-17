@@ -1,0 +1,2 @@
+#!/bin/sh
+unzip -d /tmp/umsp-plugins /tmp/conf/potter.zip
